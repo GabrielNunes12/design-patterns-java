@@ -5,7 +5,7 @@ This repository contains code examples and explanations for various design patte
 The examples are written in Java and organized by design pattern type. To get started, simply clone this repository:
 
 ```
-git clone https://github.com/GabrielNunes12/design-patterns-java/design-patterns.git
+git clone https://github.com/GabrielNunes12/design-patterns-java.git
 Each design pattern has its own directory, containing a README file explaining the pattern and one or more code examples.
 ```
 
